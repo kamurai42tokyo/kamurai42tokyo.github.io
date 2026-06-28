@@ -30,15 +30,6 @@ window.APP_DATA = {
       sub: "study · 遊びながら Python を身につける",
       apps: [
         {
-          name: "⚔️ Collection Quest",
-          desc: "list / dict / set / tuple / str のメソッドを、進化する勇者と一緒に RPG風クイズで学ぶ。",
-          url: "https://kamurai42tokyo.github.io/collection-methods-quiz/",
-          thumb: "thumbnails/collection-quest.jpg",
-          tags: ["PWA", "コレクション型", "クイズ"],
-          status: "published",
-          launch: "▶ ぼうけんに でる"
-        },
-        {
           name: "🧑‍💻 Python Quest",
           desc: "Python を網羅的に学習可能なアプリケーション。人生が進化するキャラと一緒に、基礎から OOP・データ操作までカテゴリ別クイズで学ぶ。",
           url: "https://kamurai42tokyo.github.io/python-quest/",
@@ -46,6 +37,15 @@ window.APP_DATA = {
           tags: ["PWA", "Module00-10", "5キャラ"],
           status: "published",
           launch: "▶ じんせいを はじめる"
+        },
+        {
+          name: "⚔️ Collection Quest",
+          desc: "list / dict / set / tuple / str のメソッドを、進化する勇者と一緒に RPG風クイズで学ぶ。",
+          url: "https://kamurai42tokyo.github.io/collection-methods-quiz/",
+          thumb: "thumbnails/collection-quest.jpg",
+          tags: ["PWA", "コレクション型", "クイズ"],
+          status: "published",
+          launch: "▶ ぼうけんに でる"
         },
         {
           name: "🎯 Python Module Quiz",
