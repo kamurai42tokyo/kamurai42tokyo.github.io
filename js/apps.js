@@ -44,7 +44,7 @@ window.APP_DATA = {
           url: "https://kamurai42tokyo.github.io/python-quest/",
           thumb: "thumbnails/module-quest.jpg",
           tags: ["PWA", "Module00-10", "5キャラ"],
-          status: "wip",
+          status: "published",
           launch: "▶ じんせいを はじめる"
         },
         {
