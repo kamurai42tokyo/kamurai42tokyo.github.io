@@ -39,8 +39,8 @@ window.APP_DATA = {
           launch: "▶ ぼうけんに でる"
         },
         {
-          name: "🧑‍💻 Python Module Quest",
-          desc: "PythonModule 00〜10 の内容を、人生が進化するキャラと一緒にカテゴリ別クイズで学ぶ。",
+          name: "🧑‍💻 Python Quest",
+          desc: "Python を網羅的に学習可能なアプリケーション。人生が進化するキャラと一緒に、基礎から OOP・データ操作までカテゴリ別クイズで学ぶ。",
           url: "https://kamurai42tokyo.github.io/python-quest/",
           thumb: "thumbnails/module-quest.jpg",
           tags: ["PWA", "Module00-10", "5キャラ"],
