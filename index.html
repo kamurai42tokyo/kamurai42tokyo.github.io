@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0b0c" />
+  <meta name="description" content="kamurai42tokyo の自作アプリ一覧。クリックでそのまま起動できる起動ハブ。" />
+  <title>Kamurai's AppLab</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icon.svg" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <div class="topbar">
+    <div class="wrap">
+      <span class="brand"><b>◆ kamurai42tokyo</b> <span class="hide">/ applab</span></span>
+      <span class="status"><span class="dot"></span>ALL SYSTEMS ONLINE</span>
+    </div>
+  </div>
+
+  <header class="mast">
+    <div class="wrap">
+      <p class="prompt"><span class="usr">kamurai42tokyo@42tokyo</span>:<span class="path">~/applab</span>$ ls --apps<span class="cursor"></span></p>
+      <h1 class="title">Kamurai's<br><span class="hollow">AppLab</span></h1>
+      <div class="filters" id="filters"></div>
+    </div>
+  </header>
+
+  <main class="wrap" id="catalog"></main>
+
+  <footer>
+    <div class="wrap">
+      <span>© 2026 kamurai42tokyo — built at 42 Tokyo</span>
+      <span>powered by <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> · always online</span>
+    </div>
+  </footer>
+
+  <script src="js/apps.js"></script>
+  <script src="js/portal.js"></script>
+</body>
+</html>
